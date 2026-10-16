@@ -1,0 +1,8 @@
+{
+  "app": "frappe_notifier",
+  "package_dir": "frappe_notifier",
+  "mode": "repository",
+  "gitflow": false,
+  "frontend_tests": false,
+  "skip_test_records": false
+}
